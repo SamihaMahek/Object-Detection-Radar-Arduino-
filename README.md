@@ -1,5 +1,3 @@
-# Object-Detection-Radar-Arduino-
-Initial commit: Create embedded tracking radar documentation.
 # Object Detection Radar System using Arduino
 An embedded IoT project that integrates an Arduino micro-controller with an ultrasonic sensor to scan, track, and map physical obstacles in a 180-degree field of view.
 
